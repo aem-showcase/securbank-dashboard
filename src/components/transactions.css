@@ -1,0 +1,37 @@
+.transactions {
+    width: 600px;
+    min-height: 445px;
+    padding: 0px;
+    margin: 20px 0px
+}
+
+@media only screen and (min-width: 1400px)  {
+  .transactions {
+    width: 695px;
+  }
+}
+
+
+
+#transactionList {
+    width: 100%;
+    text-align: left;
+    font: normal normal normal 16px/24px adobe-clean;
+    letter-spacing: 0px;
+    color: #2C2C2C;
+    opacity: 1;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+#transactionList tr:hover {background-color: #ddd;}
+
+#transactionList td, #transactionList th {
+    border-bottom: 2px solid #0000000D;
+    padding: 19px 0px;
+}
+
+  #transactionList td:nth-child(5) {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: right;
+  }

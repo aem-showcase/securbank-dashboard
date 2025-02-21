@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="735" height="143" viewBox="0 0 735 143">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="735" height="143" fill="#171c28" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Masked_Shapes" data-name="Masked Shapes" clip-path="url(#clip-path)">
+    <rect id="Bg" width="736" height="143" fill="#f3f2f6"/>
+    <g id="Squares_02" data-name="Squares 02" transform="translate(94 -129)" opacity="0.5">
+      <rect id="Square_08" data-name="Square 08" width="85" height="89" transform="translate(170 269)" fill="#f3f2f6" opacity="0.3"/>
+      <rect id="Square_07b" data-name="Square 07b" width="86" height="89" transform="translate(84 269)" fill="#f3f2f6" opacity="0.1"/>
+      <rect id="Square_07a" data-name="Square 07a" width="86" height="89" transform="translate(84 269)" fill="#f3f2f6" opacity="0.4" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <rect id="Square_06" data-name="Square 06" width="86" height="90" transform="translate(84 179)" opacity="0.046"/>
+      <rect id="Square_05b" data-name="Square 05b" width="85" height="89" transform="translate(255 90)" fill="#f3f2f6" opacity="0.4"/>
+      <rect id="Square_05a" data-name="Square 05a" width="85" height="89" transform="translate(255 90)" fill="#f3f2f6" opacity="0.1" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <rect id="Square_04" data-name="Square 04" width="85" height="89" transform="translate(170 90)" fill="#818a96" opacity="0.1"/>
+      <rect id="Square_03" data-name="Square 03" width="85" height="90" transform="translate(170)" opacity="0.05"/>
+      <rect id="Square_02" data-name="Square 02" width="86" height="90" transform="translate(84)" fill="#f3f2f6" opacity="0.5"/>
+      <rect id="Square_01" data-name="Square 01" width="84" height="90" transform="translate(0 179)" fill="#f3f2f6" opacity="0.2"/>
+    </g>
+    <g id="Squares_02-2" data-name="Squares 02" transform="translate(773 -129) rotate(90)" opacity="0.5">
+      <rect id="Square_08-2" data-name="Square 08" width="90" height="89" transform="translate(179 269)" fill="#f3f2f6" opacity="0.3"/>
+      <rect id="Square_07b-2" data-name="Square 07b" width="90" height="89" transform="translate(89 269)" fill="#f3f2f6" opacity="0.1"/>
+      <rect id="Square_07a-2" data-name="Square 07a" width="90" height="89" transform="translate(89 269)" fill="#f3f2f6" opacity="0.4" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <rect id="Square_06-2" data-name="Square 06" width="90" height="90" transform="translate(89 179)" opacity="0.046"/>
+      <rect id="Square_05b-2" data-name="Square 05b" width="89" height="89" transform="translate(269 90)" fill="#f3f2f6" opacity="0.4"/>
+      <rect id="Square_05a-2" data-name="Square 05a" width="89" height="89" transform="translate(269 90)" fill="#f3f2f6" opacity="0.1" style="mix-blend-mode: overlay;isolation: isolate"/>
+      <rect id="Square_04-2" data-name="Square 04" width="90" height="89" transform="translate(179 90)" fill="#818a96" opacity="0.1"/>
+      <rect id="Square_03-2" data-name="Square 03" width="90" height="90" transform="translate(179)" opacity="0.05"/>
+      <rect id="Square_02-2" data-name="Square 02" width="90" height="90" transform="translate(89)" fill="#f3f2f6" opacity="0.5"/>
+      <rect id="Square_01-2" data-name="Square 01" width="89" height="90" transform="translate(0 179)" fill="#f3f2f6" opacity="0.2"/>
+    </g>
+  </g>
+</svg>

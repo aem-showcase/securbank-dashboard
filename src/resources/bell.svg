@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="40" viewBox="0 0 41 40">
+  <g id="notification" transform="translate(0.81 -0.025)">
+    <ellipse id="eli" cx="20.5" cy="20" rx="20.5" ry="20" transform="translate(-0.81 0.025)" fill="#f3f2f6"/>
+    <g id="Decorative_icon" data-name="Decorative icon" transform="translate(9.953 10.373)">
+      <g id="Placement_Area" data-name="Placement Area" transform="translate(0 0)" fill="#2c2c2c" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+        <rect width="19.271" height="18.529" stroke="none"/>
+        <rect x="0.5" y="0.5" width="18.271" height="17.529" fill="none"/>
+      </g>
+      <g id="Icon" transform="translate(0 0)">
+        <g id="Canvas" fill="#2c2c2c" stroke="#6e6e6e" stroke-width="1" opacity="0">
+          <rect width="19.271" height="18.556" stroke="none"/>
+          <rect x="0.5" y="0.5" width="18.271" height="17.556" fill="none"/>
+        </g>
+        <path id="line" d="M9.163,18.082A2.339,2.339,0,0,0,11.325,16H7A2.339,2.339,0,0,0,9.163,18.082Z" transform="translate(0.458 1.189)" fill="#2c2c2c"/>
+        <path id="line-2" data-name="line" d="M14.513,5.886c0-1.789-1.733-2.546-3.862-2.743V1.521A.576.576,0,0,0,10.033,1H9.106a.576.576,0,0,0-.618.521V3.143c-2.129.2-3.862.953-3.862,2.743C4.626,13.911,2,13.553,2,14.616v.961H17.139v-.961C17.139,13.495,14.513,13.911,14.513,5.886Z" transform="translate(0.051 0.57)" fill="#2c2c2c"/>
+      </g>
+    </g>
+  </g>
+</svg>

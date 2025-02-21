@@ -1,0 +1,13 @@
+.Footer {
+    background-color: #fff;
+    min-height: 200px;
+    max-width: 1480px;
+    margin: auto;
+    text-align:center;
+    font: 16px/20px adobe-clean;
+
+}
+
+.Footer hr {
+    border-bottom: 1px solid black;
+}

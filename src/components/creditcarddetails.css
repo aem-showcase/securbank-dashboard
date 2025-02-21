@@ -1,0 +1,54 @@
+.creditcarddetails {
+    padding-top: 96px;
+    width: 600px;
+    padding-bottom: 13px;
+}
+
+@media only screen and (min-width: 1400px)  {
+    .creditcarddetails {
+        width: 695px;
+    }
+}
+
+.creditcardimage {
+    max-height: 143px;
+}
+
+.creditcardactions {
+    font: normal normal normal 16px/24px adobe-clean;
+    color: #0296A6;
+}
+
+.creditcardactions ul {
+    padding: 15px 0 0 0;
+}
+.creditcardactions li a {
+    color: #0296A6;
+}
+
+.creditcardoffer {
+    border: 1px solid #E5E5E5;
+    text-align: center;
+    padding: 20px;
+    font: normal normal normal 16px/24px adobe-clean;
+    max-height: 143px;
+    height: 143px;
+    box-sizing: border-box;
+    width: 290px;
+    color: #0296A6;
+}
+
+.creditcardoffer a {
+    color: #0296A6;
+}
+
+.creditcardoffer img {
+    width: 98px;
+}
+
+
+.flexrow {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}

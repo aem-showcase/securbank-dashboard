@@ -1,0 +1,48 @@
+.articleList {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content:space-between;
+    padding: 0;
+    padding-inline-start:0;
+    color: #2C2C2C;
+}
+
+.articleList li {
+    text-decoration: none;
+    max-width: 400px;
+    font-size: 18px;
+
+    
+}
+
+@media only screen and (min-width: 1400px)  {
+    .articleList li {
+        max-width: 470px;
+    }
+}
+
+.articleImage {
+    width: 470px;
+    aspect-ratio: 16 / 9 ;
+    object-fit: cover;
+}
+
+.articleHeading {
+    text-align: left;
+    font: normal normal 600 18px/22px adobe-clean;
+    letter-spacing: 0px;
+    color: #2C2C2C;
+    opacity: 1;
+    margin: 0;
+}
+
+.articleDescription {
+    text-align: left;
+    font: normal normal normal 18px/22px adobe-clean;
+    letter-spacing: 0px;
+    color: #2C2C2C;
+    opacity: 1;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon" transform="translate(-0.054)">
+    <rect id="rec" width="40" height="40" rx="6" transform="translate(0.054)" fill="#0296a6" opacity="0.075"/>
+    <g id="Smock_Shop_18_N" transform="translate(10.963 10.909)">
+      <rect id="Canvas" width="17.681" height="18.182" transform="translate(0.25 0)" fill="#ff13dc" opacity="0"/>
+      <path id="Path_98473" data-name="Path 98473" d="M17.9,8.614H.54a.4.4,0,0,1-.327-.173.457.457,0,0,1-.067-.382L1.94,1.394A.518.518,0,0,1,2.433,1H16.009a.518.518,0,0,1,.493.394L18.3,8.059a.457.457,0,0,1-.067.382A.4.4,0,0,1,17.9,8.614ZM15.371,9.7v3.263h-8.2V9.7H6.146v7.614H3.072V9.7H2.047v7.614A1.058,1.058,0,0,0,3.072,18.4h12.3A1.058,1.058,0,0,0,16.4,17.315V9.7ZM2.047,7.526H3.072L4.1,2.088H3.072Zm4.356,0H7.428L7.94,2.088H6.915Zm4.1-5.438.512,5.438H12.04l-.512-5.438Zm4.868,0H14.346l1.025,5.438H16.4Z" transform="translate(-0.13 -0.611)" fill="#0296a6"/>
+    </g>
+  </g>
+</svg>

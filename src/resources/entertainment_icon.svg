@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon" transform="translate(-0.054)">
+    <rect id="rec" width="40" height="40" rx="6" transform="translate(0.054)" fill="#0296a6" opacity="0.075"/>
+    <g id="Decorative_icon" data-name="Decorative icon" transform="translate(10.963 10.909)">
+      <g id="Placement_Area" data-name="Placement Area" transform="translate(0.091 0.091)" fill="red" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+        <rect width="18" height="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17" height="17" fill="none"/>
+      </g>
+      <g id="Icon-2" data-name="Icon">
+        <rect id="Canvas" width="18" height="18" transform="translate(0.091 0.091)" fill="#0296a6" opacity="0"/>
+        <path id="Path_102756" data-name="Path 102756" d="M9.329.3l2.183,5.776,6.168.292a.258.258,0,0,1,.152.459l-4.818,3.862,1.628,5.956a.258.258,0,0,1-.39.283L9.088,13.537,3.927,16.925a.258.258,0,0,1-.39-.283l1.628-5.956L.347,6.824A.258.258,0,0,1,.5,6.366l6.166-.292L8.847.3a.258.258,0,0,1,.482,0Z" transform="translate(0.003 0.001)" fill="#0296a6"/>
+      </g>
+    </g>
+  </g>
+</svg>

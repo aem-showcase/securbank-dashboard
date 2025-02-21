@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon" transform="translate(-0.054)">
+    <rect id="rec" width="40" height="40" rx="6" transform="translate(0.054)" fill="#0296a6" opacity="0.075"/>
+    <g id="Decorative_icon" data-name="Decorative icon" transform="translate(10.963 10.909)">
+      <g id="Placement_Area" data-name="Placement Area" transform="translate(0.091 0.091)" fill="red" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+        <rect width="18" height="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17" height="17" fill="none"/>
+      </g>
+      <g id="Icon-2" data-name="Icon">
+        <g id="Canvas" transform="translate(0.091 0.091)" fill="#0296a6" stroke="#6e6e6e" stroke-width="1" opacity="0">
+          <rect width="18" height="18" stroke="none"/>
+          <rect x="0.5" y="0.5" width="17" height="17" fill="none"/>
+        </g>
+        <path id="Path_102757" data-name="Path 102757" d="M17.929,16.161h-.758V15.4a.253.253,0,0,0-.253-.253h-.758V7.488a1.01,1.01,0,0,1,.3-.714l.714-.714H1.01l.714.714a1.01,1.01,0,0,1,.3.714v7.662H1.263a.253.253,0,0,0-.253.253v.758H.253A.253.253,0,0,0,0,16.413v.505a.253.253,0,0,0,.253.253H17.929a.253.253,0,0,0,.253-.253v-.505A.253.253,0,0,0,17.929,16.161ZM14.141,8.08v7.071h-1.01V8.08Zm-3.03,0v7.071H10.1V8.08Zm-3.03,0v7.071H7.071V8.08Zm-4.04,0h1.01v7.071H4.04ZM18.182,4.368V5.05H0V4.368a.505.505,0,0,1,.3-.462L8.681.181a1.01,1.01,0,0,1,.82,0l8.381,3.725A.505.505,0,0,1,18.182,4.368Z" transform="translate(0 0.001)" fill="#0296a6"/>
+      </g>
+    </g>
+  </g>
+</svg>
